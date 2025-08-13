@@ -1,5 +1,4 @@
 <h1>Guide for resposive Ui for myself</h1>
-
 1. Go for flex instead of block so it can be a little more responsive, also it will show some gaps too as it will be only having text-length width and the cards would be able to use that space.
 
 2.Use flex: 1 1 auto;
